@@ -1,2 +1,3 @@
-# elixir_resources
-A list of resources for learning elixir
+# Elixir Resources
+
+1. There's an [introduction on elixir-lang.org](https://elixir-lang.org/getting-started/introduction.html)
